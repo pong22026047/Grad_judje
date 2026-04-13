@@ -27,6 +27,7 @@
 - スクリプト本体: judge_tool.py
   （配布版では co_creation_requirements_checker_v3.py などの名前でも可）
 - 入力CSV: CAMPUS SQUARE 等から出力した履修登録状況CSV
+   (履修登録ページ下部の"テキスト出力"から取得)
 
 例:
 - judge_tool.py
